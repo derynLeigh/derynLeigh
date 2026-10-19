@@ -15,7 +15,7 @@ A small system that gathers open Dependabot pull requests from several GitHub re
 ### [antiques-inventory](https://github.com/derynLeigh/antiques-scaffold) 
 A full-stack stock inventory web app for a small antiques business. In progress.
 
-### [habbit-tracker](https://github.com/derynLeigh/habbit-tracker) 
+### [habit-tracker](https://github.com/derynLeigh/habit-tracker) 
 Create, schedule and track habits. In progress.
 
 ## How I like to build
