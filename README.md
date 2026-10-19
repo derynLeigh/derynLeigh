@@ -11,6 +11,7 @@ A small system that gathers open Dependabot pull requests from several GitHub re
 |---|---|---|
 | [dependabot-api-node](https://github.com/derynLeigh/dependabot-api-node) | Express API with file-based caching and a cron-scheduled refresh | TypeScript, Node.js |
 | [dependabot-dashboard](https://github.com/derynLeigh/dependabot-dashboard) | Front end for browsing the collected PRs | TypeScript, React, Next.js |
+| [dependabot-service](https://github.com/derynLeigh/dependabot-service) | Alternate Spring Boot service that authenticates as a GitHub App and summarises Dependabot PRs across repositories | Java 17, Spring Boot 3, Gauge BDD |
 
 ### [antiques-inventory](https://github.com/derynLeigh/antiques-scaffold) 
 A full-stack stock inventory web app for a small antiques business. In progress.
