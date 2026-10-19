@@ -10,7 +10,7 @@ A small system that gathers open Dependabot pull requests from several GitHub re
 | Repo | What it does | Stack |
 |---|---|---|
 | [dependabot-api-node](https://github.com/derynLeigh/dependabot-api-node) | Express API with file-based caching and a cron-scheduled refresh | TypeScript, Node.js |
-| [dependabot-ui](https://github.com/derynLeigh/dependabot-dashboard) | Front end for browsing the collected PRs | TypeScript, React, Next.js |
+| [dependabot-dashboard](https://github.com/derynLeigh/dependabot-dashboard) | Front end for browsing the collected PRs | TypeScript, React, Next.js |
 
 ### [antiques-inventory](https://github.com/derynLeigh/antiques-scaffold) 
 A full-stack stock inventory web app for a small antiques business. In progress.
